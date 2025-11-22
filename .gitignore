@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.mypy_cache/
+.pytest_cache/
+
+# Data
+data/
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.pkl
+
+# Machine Learning
+models/
+logs/
+checkpoints/
+*.h5
+*.keras
+*.pb
+*.hdf5
+saved_models/
+
+# Plots and figures
+docs/*.png
+docs/*.jpg
+docs/*.jpeg
+docs/*.gif
+docs/*.svg
+
+# IDEs and other tools
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Anaconda/Miniconda
+.conda/
+.envs/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
