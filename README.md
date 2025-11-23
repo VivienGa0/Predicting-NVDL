@@ -267,12 +267,6 @@ Contributions are welcome. Please submit a Pull Request. For major changes, open
 
 This project is open source and available under the MIT License.
 
-## Author
-
-**Your Name**
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
 
 ## Acknowledgments
 
