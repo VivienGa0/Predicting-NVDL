@@ -2,7 +2,10 @@ pandas
 numpy
 yfinance
 matplotlib
+seaborn
 scikit-learn
-tensorflow
+torch
+torchvision
 statsmodels
-pandas-ta
+pmdarima
+joblib
